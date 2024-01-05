@@ -53,7 +53,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kanishka-semal-976108240/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kanishka Semal" height="50" width="50" /></a>
 <a href="https://www.facebook.com/rox.kanishka.5?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishka semal" height="50" width="50" /></a>
-<a href="https://www.instagram.com/__don_kani__" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="__don_kani__" height="50" width="50" /></a>
+<a href="https://www.instagram.com/__don_kani__?igsh=MXZ0Z2ptYmpwaWR4Mw==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="__don_kani__" height="50" width="50" /></a>
 </p>
 
 ---
@@ -64,5 +64,4 @@
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
