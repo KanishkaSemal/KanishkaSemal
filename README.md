@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kanishka Semal</h1>
-<h3 align="center">IT Graduate | DevOps & Cloud Enthusiast ☁️🚀</h3>
+<h3 align="center">Passionate IT Undergraduate | Exploring the Boundless World of Technology 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanishkasemal&label=Profile%20Views&color=0e75b6&style=flat" alt="kanishkasemal" />
@@ -17,16 +17,16 @@
 <tr>
 <td width="50%">
 
-- 🎓 **IT Graduate from Sri Lanka Institute of Information Technology (SLIIT)**
-- 🌱 Currently exploring **DevOps, Cloud Computing & CI/CD**
-- 💬 Ask me about **Docker, Kubernetes, AWS, Azure, CI/CD pipelines**
+- 🌱 Currently learning **Java & Full-Stack Development**
+- 🎓 Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
+- 💬 Ask me about **Java, Web Development**
 - 📫 Reach me at **kanishkashemalperera@gmail.com**
-- ⚡ Fun fact: **Call me Kani 😄**
+- ⚡ Fun fact: **You can call me Kani 😄**
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*m1n0k-UXuYzWCeWqS17y9g.png" width="420"/>
+<img src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="420"/>
 
 </td>
 </tr>
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KanishkaSemal&theme=dark&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KanishkaSemal&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 
 ---
@@ -63,33 +63,29 @@
 
 ---
 
-## 🛠️ DevOps & Cloud Skills
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker-Light.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Azure.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CI-CD.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Terraform.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" width="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50"/>
 </p>
 
 ---
 
-## 📈 Goals & Interests
-
-- 🚀 Automating software delivery with **CI/CD pipelines**
-- ☁️ Deploying scalable applications on **AWS & Azure**
-- 🐳 Containerization with **Docker & Kubernetes**
-- 🛠️ Infrastructure as Code with **Terraform**
-- 🤖 Learning DevSecOps practices
-
----
-
 <p align="center">
-  ⭐ Open to opportunities in **DevOps & Cloud** | Always learning | Let’s build amazing infrastructure ⭐
+  ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* ⭐️
 </p>
